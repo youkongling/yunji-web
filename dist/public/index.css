@@ -369,17 +369,17 @@ body {
 }
 
 .xb-join-step2 ul li:nth-child(1) div {
-    background-image: url(/img/join4.png);
+    background-image: url(img/join4.png);
     transition: background-image 0.4s ease;
 }
 
 .xb-join-step2 ul li:nth-child(2) div {
-    background-image: url(/img/join3.png);
+    background-image: url(img/join3.png);
     transition: background-image 0.4s ease;
 }
 
 .xb-join-step2 ul li:nth-child(3) div {
-    background-image: url(/img/join2.png);
+    background-image: url(img/join2.png);
     transition: background-image 0.4s ease;
 }
 
@@ -389,17 +389,17 @@ body {
 }
 
 .xb-join-step2 ul li:nth-child(1):hover div {
-    background-image: url(/img/join4-hover.png);
+    background-image: url(img/join4-hover.png);
     transition: background-image 0.4s ease;
 }
 
 .xb-join-step2 ul li:nth-child(2):hover div {
-    background-image: url(/img/join3-hover.png);
+    background-image: url(img/join3-hover.png);
     transition: background-image 0.4s ease;
 }
 
 .xb-join-step2 ul li:nth-child(3):hover div {
-    background-image: url(/img/join2-hover.png);
+    background-image: url(img/join2-hover.png);
     transition: background-image 0.4s ease;
 }
 
